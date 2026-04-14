@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN preferred_language TEXT NOT NULL DEFAULT 'english';
