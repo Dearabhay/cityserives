@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+# 🏙️ City Services Platform
 
-## Project info
+A modern full-stack web application for discovering and booking local city services — built with React, TypeScript, and Supabase.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## How can I edit this code?
+## 🚀 Live Demo
 
-There are several ways of editing your application.
+[View Live →](https://cityserives.vercel.app)
 
-**Use Lovable**
+## ✨ Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- Browse and search local city services
+- Clean, responsive mobile-first UI
+- Fast performance with Vite bundler
+- Type-safe codebase with TypeScript
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tech Stack
 
-**Use your preferred IDE**
+| Layer | Technology |
+|-------|------------|
+| Frontend | React.js, TypeScript, Vite |
+| Styling | Tailwind CSS |
+| Backend | Supabase |
+| Deployment | Vercel |
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📦 Run Locally
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+git clone https://github.com/Dearabhay/cityserives.git
+cd cityserives
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🌐 Deploy on Vercel
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1. Push repo to GitHub
+2. Open [vercel.com](https://vercel.com) → Add New Project
+3. Import this repository
+4. Click Deploy
 
-**Use GitHub Codespaces**
+## 👨‍💻 Author
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**Abhay Kumar** — [Portfolio](https://dearabhay.vercel.app) · [LinkedIn](https://linkedin.com/in/dearabhaykumar)
